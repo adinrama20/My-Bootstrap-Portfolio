@@ -1,0 +1,14 @@
+.jumbotron {
+  margin-top: 50px;
+}
+.jumbotron,
+#projects,
+#footer {
+  background-color: #bde1ff;
+}
+
+#about,
+#projects,
+#contact {
+  padding-top: 100px;
+}
